@@ -4,7 +4,7 @@ This project is a Next.js application with Firebase authentication, Redux state 
 
 ## Features
 
-- User authentication (login/logout) using Firebase
+- User authentication using Firebase
 - Redux for state management
 - Material-UI for styled components
 - Responsive design
